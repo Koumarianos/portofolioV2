@@ -29,7 +29,7 @@ Welcome to my personal portfolio website (Version 2) — built to look sleek and
 ├── app.js # Interactivity and effects
 ├── config.js # Config (e.g. Discord webhook)
 ├── images/ # Assets / logos
-└── README.md # Project documentation```
+└── README.md # Project documentation
 ```
 
 ## 🎨 Customization
