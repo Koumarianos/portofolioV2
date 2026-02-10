@@ -23,7 +23,7 @@ Welcome to my personal portfolio website (Version 2) — built to look sleek and
 
 ## 📁 Project Structure
 
-```portfolio-v2/
+portfolio-v2/
 ├── index.html # Main page content
 ├── style.css # Styling, animations, responsive layout
 ├── app.js # Interactivity and effects
