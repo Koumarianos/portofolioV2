@@ -50,6 +50,6 @@ I’m **Konstantinos Koumarianos**, a first-year Computer Science student at **N
 
 - GitHub: https://github.com/Koumarianos  
 - LinkedIn: https://www.linkedin.com/in/konstantinos-koumarianos-ab79a337a/  
-- Email: koumarianos.konstantinos@gmail.com  
+- Email: koumarianoskonstantinos24@gmail.com
 
 Made with ❤️ and way too much ☕.
