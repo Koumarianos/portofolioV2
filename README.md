@@ -1,10 +1,10 @@
-# 🌟 Konstantinos Koumarianos - Portfolio V2
+# Konstantinos Koumarianos - Portfolio V2
 
 Welcome to my personal portfolio website (Version 2) — built to look sleek and modern while staying fast, lightweight, and easy to use. It showcases my work as a computer science student with a strong interest in web development and cybersecurity.
 
 🌍 **Live Website:** **koumarianos24.gr**
 
-## ✨ What Makes This Special
+## What Makes This Special
 
 - **Sleek Design**: Minimalist UI with glassmorphism effects and smooth gradients.
 - **Fancy Cursor**: Custom cursor with a subtle trailing effect for a more interactive feel.
@@ -14,14 +14,14 @@ Welcome to my personal portfolio website (Version 2) — built to look sleek and
 - **Skill Bars**: Animated progress bars to visualize tech proficiency.
 - **Contact Form**: Sends messages directly to my Discord via webhook.
 
-## 🛠️ Built With
+## Built With
 
 - **HTML5**: Clean semantic structure.
 - **CSS3**: Custom properties, flexbox/grid layouts, animations, responsive design.
 - **Vanilla JavaScript**: Pure JS (Intersection Observer, smooth scrolling, interactivity).
 - **Fonts & Icons**: Inter + JetBrains Mono, and Font Awesome icons.
 
-## 📁 Project Structure
+## Project Structure
 
 ```portfolio-v2/
 ├── index.html # Main page content
@@ -32,7 +32,7 @@ Welcome to my personal portfolio website (Version 2) — built to look sleek and
 └── README.md # Project documentation
 ```
 
-## 🎨 Customization
+## Customization
 
 You can easily use this as a base for your own portfolio:
 
